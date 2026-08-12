@@ -26,7 +26,7 @@ comparison through a Streamlit web application.
   models (Logistic Regression, kNN).
 
 ## c) GitHub Repository Link
-`<PASTE_YOUR_GITHUB_REPO_LINK_HERE>`
+`https://github.com/deba79kundu-droid/ML_Assignment_2`
 
 ## d) Models Used
 
