@@ -1,5 +1,8 @@
 # Machine Learning Assignment 2 — Breast Cancer Classification Dashboard
 
+**Course:** Machine Learning - (S2-25_AIMLCZG565)  - Assignment 2
+**Author:** Debashis Kundu (2025AC05781)
+---
 ## a) Problem Statement
 The goal of this project is to build, evaluate, and deploy multiple binary
 classification models that predict whether a breast tumor is **malignant**

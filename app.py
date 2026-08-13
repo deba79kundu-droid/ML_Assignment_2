@@ -1,6 +1,11 @@
 """
+=======================================================================
 Assignment 2 - Streamlit App
 Breast Cancer Classification - Model Comparison Dashboard
+
+Machine Learning - (S2-25_AIMLCZG565)  - Assignment 2
+Author: Debashis Kundu (2025AC05781)
+=======================================================================
 """
 import streamlit as st
 import pandas as pd
@@ -126,4 +131,4 @@ if os.path.exists(os.path.join(MODEL_DIR, "metrics.csv")):
 else:
     st.info("Run model/train_models.py first to generate metrics.csv")
 
-st.caption("Built for BITS WILP M.Tech (AIML/DSE) — Machine Learning Assignment 2")
+st.caption("Built for BITS WILP M.Tech (AIML/DSE) — Machine Learning(S2-25_AIMLCZG565) Author: Debashis")
