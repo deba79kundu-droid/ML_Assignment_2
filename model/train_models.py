@@ -1,5 +1,8 @@
 """
-Assignment 2 - Model Training Script
+Project: Breast Cancer Classification - Model Comparison Dashboard
+Machine Learning - (S2-25_AIMLCZG565)  - Assignment 2
+Author: Debashis Kundu (2025AC05781)
+
 Dataset: Breast Cancer Wisconsin (Diagnostic) - sklearn built-in
 569 instances, 30 features, binary classification (malignant/benign)
 
